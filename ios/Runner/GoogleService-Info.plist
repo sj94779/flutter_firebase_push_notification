@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBdk202tCG2CvgwFfnPQwm7eapOn7oRbl0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>355565023430</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.firebasePushNotification</string>
+	<key>PROJECT_ID</key>
+	<string>flutterfire-cli-fffba</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flutterfire-cli-fffba.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:355565023430:ios:4e772c30025cd0c5f027c7</string>
+</dict>
+</plist>
